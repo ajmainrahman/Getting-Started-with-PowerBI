@@ -1,4 +1,5 @@
-**Things to learn from this project are: **
+**Things to learn from this project are:
+**
 - Data Cleaning & Processing in Power BI
 - Power BI Dashboard Setup
 - Import data in Power BI
