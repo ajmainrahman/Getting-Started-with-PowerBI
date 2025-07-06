@@ -1,1 +1,9 @@
-# Power_BI_Project
+# Coca-Cola Sales Dashboard
+
+**Objective**
+
+**Initial Situation**
+
+**Goals and Considerations**
+
+**Results**
