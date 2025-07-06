@@ -8,7 +8,7 @@ This project analyzes survey responses from 630 data professionals across variou
 * To improve data visualization and storytelling using real-world survey data.
 
 **Initial Situation**
-There was limited clarity on how different roles in data compare in terms of satisfaction, skills, and salary. Many aspiring professionals are unsure what to expect when entering the field.
+- There was limited clarity on how different roles in data compare in terms of satisfaction, skills, and salary. Many aspiring professionals are unsure what to expect when entering the field.
 
 **Goals and Considerations**
 - Provide clear, data-driven insights for aspiring and current data professionals.
