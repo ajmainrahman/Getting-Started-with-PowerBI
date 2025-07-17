@@ -3,8 +3,8 @@
 ---
 **PROBLEM STATEMENT**
 
-*KPI'S REQUIREMENT*
-1. 
+*KPI's Requirement*
+1. Total Revenue: 
 2. 
 3. 
 4. 
